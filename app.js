@@ -9,6 +9,7 @@ App({
         "active": true, // active是这里独有的，通过它可以判断哪个页面是当前的tab页
         "pagePath": "pages/index/index",
         "text": "首页",
+        
         "iconPath": "/icon/home_nor.png",
         "selectedIconPath": "/icon/home_pre.png"
       },
