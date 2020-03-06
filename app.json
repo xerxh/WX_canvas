@@ -30,6 +30,7 @@
         "text": "多张",
         "iconPath": "assets/icon-grid.png",
         "selectedIconPath": "assets/icon-grid.png"
+        
       }
     ]
   }
