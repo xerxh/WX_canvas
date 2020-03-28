@@ -28,6 +28,7 @@ App({
         "selectedIconPath": "/icon/mine_pre.png"
       }
     ],
+
     isHideTabbar: false
   },
   onLaunch: function () {
