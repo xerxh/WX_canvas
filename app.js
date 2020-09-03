@@ -13,6 +13,7 @@ App({
         "iconPath": "/icon/home_nor.png",
         "selectedIconPath": "/icon/home_pre.png"
       },
+
       {
         "active": false,
         "pagePath": "pages/center/index",
